@@ -1,0 +1,9 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.selected{
+    background-color: rgb(255, 196, 0);
+    padding: 5px 20px;
+    display: inline;
+}
